@@ -39,3 +39,4 @@ for i in colors:
 #    print ids, color
 
 print [line for line in allColorHax]
+print [line for line in colorName]
