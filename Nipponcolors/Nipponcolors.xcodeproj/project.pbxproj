@@ -15,6 +15,7 @@
 		04FB33F91CD32E9500FFDC74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FB33F71CD32E9500FFDC74 /* LaunchScreen.storyboard */; };
 		04FB34041CD32E9600FFDC74 /* NipponcolorsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB34031CD32E9600FFDC74 /* NipponcolorsTests.m */; };
 		04FB340F1CD32E9600FFDC74 /* NipponcolorsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB340E1CD32E9600FFDC74 /* NipponcolorsUITests.m */; };
+		04FB341E1CD32F0A00FFDC74 /* UIColor+NipponColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB341D1CD32F0A00FFDC74 /* UIColor+NipponColors.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		04FB340A1CD32E9600FFDC74 /* NipponcolorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NipponcolorsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04FB340E1CD32E9600FFDC74 /* NipponcolorsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NipponcolorsUITests.m; sourceTree = "<group>"; };
 		04FB34101CD32E9600FFDC74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04FB341C1CD32F0A00FFDC74 /* UIColor+NipponColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+NipponColors.h"; sourceTree = "<group>"; };
+		04FB341D1CD32F0A00FFDC74 /* UIColor+NipponColors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+NipponColors.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 			children = (
 				04FB33EC1CD32E9500FFDC74 /* AppDelegate.h */,
 				04FB33ED1CD32E9500FFDC74 /* AppDelegate.m */,
+				04FB341C1CD32F0A00FFDC74 /* UIColor+NipponColors.h */,
+				04FB341D1CD32F0A00FFDC74 /* UIColor+NipponColors.m */,
 				04FB33EF1CD32E9500FFDC74 /* ViewController.h */,
 				04FB33F01CD32E9500FFDC74 /* ViewController.m */,
 				04FB33F21CD32E9500FFDC74 /* Main.storyboard */,
@@ -273,6 +278,7 @@
 				04FB33F11CD32E9500FFDC74 /* ViewController.m in Sources */,
 				04FB33EE1CD32E9500FFDC74 /* AppDelegate.m in Sources */,
 				04FB33EB1CD32E9500FFDC74 /* main.m in Sources */,
+				04FB341E1CD32F0A00FFDC74 /* UIColor+NipponColors.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
