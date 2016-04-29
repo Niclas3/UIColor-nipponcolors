@@ -1,4 +1,4 @@
-import urllib 
+import urllib
 import os
 from bs4 import BeautifulSoup
 
@@ -16,6 +16,7 @@ with open("./colorWithNumber.txt") as fb:
 
 raw_split = raw.split(' ')
 del raw_split[-2: -1]
+del raw_split[-1]
 
 rawa = enumerate(raw_split)
 
@@ -27,16 +28,37 @@ for numb, line in rawa:
         allColorHax.append(tuple(colorLine.split(" ")))
 
 # get color real name and english name from net
-colors =  soup.find_all("li")
+colors = soup.find_all("li")
 for i in colors:
     aTag = i.find_all("a")
     tuples = aTag[0].text.split(",")
-    allName.append(tuple(tuples))
     colorName.append(tuples[0])
     englishName.append(tuples[1])
 
-#for ids, color in enumerate(colorName):
-#    print ids, color
+def iterm(lists):
+    for ids, color in enumerate(lists):
+        print ids, color[0].replace("#", "0x")
 
-print [line for line in allColorHax]
-print [line for line in colorName]
+listNumber = len(allColorHax)
+for num in range(listNumber):
+    allName.append(allColorHax[num][0].replace("#", "0x")+" "+colorName[num] + englishName[num])
+
+iterm(allColorHax)
+demoCode = """ 
+  // 
+  +(instancetype)nadeshikoColor {
+     return UIColorFromRGB(0xfafafa);
+     } """
+
+# for .m file
+with open('./Nipponcolors/Nipponcolors/UIColor+NipponColors.m', 'a') as out:
+      for line in allName:
+          strs = "\n /**\n  *\n  *     " + line.split(' ')[1].encode("UTF-8") + "\n  */\n" + "+ (instancetype)" + line.split(' ')[2].encode("UTF-8") + "{\n" + "  return UIColorFromRGB(" + line.split(' ')[0].encode("UTF-8") + ");\n}\n"
+          out.write(strs)
+# For .h file 
+with open('./Nipponcolors/Nipponcolors/UIColor+NipponColors.h', 'a') as out:
+      for line in allName:
+          strs = "\n /**\n   *     " + line.split(' ')[1].encode("UTF-8") + "\n   */\n" + "+ (instancetype)" + line.split(' ')[2].encode("UTF-8") + ";\n"
+          print strs
+          out.write(strs)
+
