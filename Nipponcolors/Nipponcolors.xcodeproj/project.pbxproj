@@ -1,0 +1,521 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04FB33EB1CD32E9500FFDC74 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB33EA1CD32E9500FFDC74 /* main.m */; };
+		04FB33EE1CD32E9500FFDC74 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB33ED1CD32E9500FFDC74 /* AppDelegate.m */; };
+		04FB33F11CD32E9500FFDC74 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB33F01CD32E9500FFDC74 /* ViewController.m */; };
+		04FB33F41CD32E9500FFDC74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FB33F21CD32E9500FFDC74 /* Main.storyboard */; };
+		04FB33F61CD32E9500FFDC74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04FB33F51CD32E9500FFDC74 /* Assets.xcassets */; };
+		04FB33F91CD32E9500FFDC74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FB33F71CD32E9500FFDC74 /* LaunchScreen.storyboard */; };
+		04FB34041CD32E9600FFDC74 /* NipponcolorsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB34031CD32E9600FFDC74 /* NipponcolorsTests.m */; };
+		04FB340F1CD32E9600FFDC74 /* NipponcolorsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FB340E1CD32E9600FFDC74 /* NipponcolorsUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		04FB34001CD32E9600FFDC74 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04FB33DE1CD32E9500FFDC74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04FB33E51CD32E9500FFDC74;
+			remoteInfo = Nipponcolors;
+		};
+		04FB340B1CD32E9600FFDC74 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04FB33DE1CD32E9500FFDC74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04FB33E51CD32E9500FFDC74;
+			remoteInfo = Nipponcolors;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04FB33E61CD32E9500FFDC74 /* Nipponcolors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nipponcolors.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04FB33EA1CD32E9500FFDC74 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		04FB33EC1CD32E9500FFDC74 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		04FB33ED1CD32E9500FFDC74 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		04FB33EF1CD32E9500FFDC74 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		04FB33F01CD32E9500FFDC74 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		04FB33F31CD32E9500FFDC74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		04FB33F51CD32E9500FFDC74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04FB33F81CD32E9500FFDC74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		04FB33FA1CD32E9500FFDC74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04FB33FF1CD32E9600FFDC74 /* NipponcolorsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NipponcolorsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04FB34031CD32E9600FFDC74 /* NipponcolorsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NipponcolorsTests.m; sourceTree = "<group>"; };
+		04FB34051CD32E9600FFDC74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04FB340A1CD32E9600FFDC74 /* NipponcolorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NipponcolorsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04FB340E1CD32E9600FFDC74 /* NipponcolorsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NipponcolorsUITests.m; sourceTree = "<group>"; };
+		04FB34101CD32E9600FFDC74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04FB33E31CD32E9500FFDC74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04FB33FC1CD32E9600FFDC74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04FB34071CD32E9600FFDC74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04FB33DD1CD32E9500FFDC74 = {
+			isa = PBXGroup;
+			children = (
+				04FB33E81CD32E9500FFDC74 /* Nipponcolors */,
+				04FB34021CD32E9600FFDC74 /* NipponcolorsTests */,
+				04FB340D1CD32E9600FFDC74 /* NipponcolorsUITests */,
+				04FB33E71CD32E9500FFDC74 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04FB33E71CD32E9500FFDC74 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04FB33E61CD32E9500FFDC74 /* Nipponcolors.app */,
+				04FB33FF1CD32E9600FFDC74 /* NipponcolorsTests.xctest */,
+				04FB340A1CD32E9600FFDC74 /* NipponcolorsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04FB33E81CD32E9500FFDC74 /* Nipponcolors */ = {
+			isa = PBXGroup;
+			children = (
+				04FB33EC1CD32E9500FFDC74 /* AppDelegate.h */,
+				04FB33ED1CD32E9500FFDC74 /* AppDelegate.m */,
+				04FB33EF1CD32E9500FFDC74 /* ViewController.h */,
+				04FB33F01CD32E9500FFDC74 /* ViewController.m */,
+				04FB33F21CD32E9500FFDC74 /* Main.storyboard */,
+				04FB33F51CD32E9500FFDC74 /* Assets.xcassets */,
+				04FB33F71CD32E9500FFDC74 /* LaunchScreen.storyboard */,
+				04FB33FA1CD32E9500FFDC74 /* Info.plist */,
+				04FB33E91CD32E9500FFDC74 /* Supporting Files */,
+			);
+			path = Nipponcolors;
+			sourceTree = "<group>";
+		};
+		04FB33E91CD32E9500FFDC74 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04FB33EA1CD32E9500FFDC74 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04FB34021CD32E9600FFDC74 /* NipponcolorsTests */ = {
+			isa = PBXGroup;
+			children = (
+				04FB34031CD32E9600FFDC74 /* NipponcolorsTests.m */,
+				04FB34051CD32E9600FFDC74 /* Info.plist */,
+			);
+			path = NipponcolorsTests;
+			sourceTree = "<group>";
+		};
+		04FB340D1CD32E9600FFDC74 /* NipponcolorsUITests */ = {
+			isa = PBXGroup;
+			children = (
+				04FB340E1CD32E9600FFDC74 /* NipponcolorsUITests.m */,
+				04FB34101CD32E9600FFDC74 /* Info.plist */,
+			);
+			path = NipponcolorsUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04FB33E51CD32E9500FFDC74 /* Nipponcolors */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04FB34131CD32E9600FFDC74 /* Build configuration list for PBXNativeTarget "Nipponcolors" */;
+			buildPhases = (
+				04FB33E21CD32E9500FFDC74 /* Sources */,
+				04FB33E31CD32E9500FFDC74 /* Frameworks */,
+				04FB33E41CD32E9500FFDC74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Nipponcolors;
+			productName = Nipponcolors;
+			productReference = 04FB33E61CD32E9500FFDC74 /* Nipponcolors.app */;
+			productType = "com.apple.product-type.application";
+		};
+		04FB33FE1CD32E9600FFDC74 /* NipponcolorsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04FB34161CD32E9600FFDC74 /* Build configuration list for PBXNativeTarget "NipponcolorsTests" */;
+			buildPhases = (
+				04FB33FB1CD32E9600FFDC74 /* Sources */,
+				04FB33FC1CD32E9600FFDC74 /* Frameworks */,
+				04FB33FD1CD32E9600FFDC74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04FB34011CD32E9600FFDC74 /* PBXTargetDependency */,
+			);
+			name = NipponcolorsTests;
+			productName = NipponcolorsTests;
+			productReference = 04FB33FF1CD32E9600FFDC74 /* NipponcolorsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		04FB34091CD32E9600FFDC74 /* NipponcolorsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04FB34191CD32E9600FFDC74 /* Build configuration list for PBXNativeTarget "NipponcolorsUITests" */;
+			buildPhases = (
+				04FB34061CD32E9600FFDC74 /* Sources */,
+				04FB34071CD32E9600FFDC74 /* Frameworks */,
+				04FB34081CD32E9600FFDC74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04FB340C1CD32E9600FFDC74 /* PBXTargetDependency */,
+			);
+			name = NipponcolorsUITests;
+			productName = NipponcolorsUITests;
+			productReference = 04FB340A1CD32E9600FFDC74 /* NipponcolorsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04FB33DE1CD32E9500FFDC74 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = nic;
+				TargetAttributes = {
+					04FB33E51CD32E9500FFDC74 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+					04FB33FE1CD32E9600FFDC74 = {
+						CreatedOnToolsVersion = 7.3;
+						TestTargetID = 04FB33E51CD32E9500FFDC74;
+					};
+					04FB34091CD32E9600FFDC74 = {
+						CreatedOnToolsVersion = 7.3;
+						TestTargetID = 04FB33E51CD32E9500FFDC74;
+					};
+				};
+			};
+			buildConfigurationList = 04FB33E11CD32E9500FFDC74 /* Build configuration list for PBXProject "Nipponcolors" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04FB33DD1CD32E9500FFDC74;
+			productRefGroup = 04FB33E71CD32E9500FFDC74 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04FB33E51CD32E9500FFDC74 /* Nipponcolors */,
+				04FB33FE1CD32E9600FFDC74 /* NipponcolorsTests */,
+				04FB34091CD32E9600FFDC74 /* NipponcolorsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04FB33E41CD32E9500FFDC74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04FB33F91CD32E9500FFDC74 /* LaunchScreen.storyboard in Resources */,
+				04FB33F61CD32E9500FFDC74 /* Assets.xcassets in Resources */,
+				04FB33F41CD32E9500FFDC74 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04FB33FD1CD32E9600FFDC74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04FB34081CD32E9600FFDC74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04FB33E21CD32E9500FFDC74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04FB33F11CD32E9500FFDC74 /* ViewController.m in Sources */,
+				04FB33EE1CD32E9500FFDC74 /* AppDelegate.m in Sources */,
+				04FB33EB1CD32E9500FFDC74 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04FB33FB1CD32E9600FFDC74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04FB34041CD32E9600FFDC74 /* NipponcolorsTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04FB34061CD32E9600FFDC74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04FB340F1CD32E9600FFDC74 /* NipponcolorsUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04FB34011CD32E9600FFDC74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04FB33E51CD32E9500FFDC74 /* Nipponcolors */;
+			targetProxy = 04FB34001CD32E9600FFDC74 /* PBXContainerItemProxy */;
+		};
+		04FB340C1CD32E9600FFDC74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04FB33E51CD32E9500FFDC74 /* Nipponcolors */;
+			targetProxy = 04FB340B1CD32E9600FFDC74 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		04FB33F21CD32E9500FFDC74 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04FB33F31CD32E9500FFDC74 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		04FB33F71CD32E9500FFDC74 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04FB33F81CD32E9500FFDC74 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04FB34111CD32E9600FFDC74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04FB34121CD32E9600FFDC74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04FB34141CD32E9600FFDC74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Nipponcolors/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hotmail.missingurchin.Nipponcolors;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		04FB34151CD32E9600FFDC74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Nipponcolors/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hotmail.missingurchin.Nipponcolors;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		04FB34171CD32E9600FFDC74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = NipponcolorsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hotmail.missingurchin.NipponcolorsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nipponcolors.app/Nipponcolors";
+			};
+			name = Debug;
+		};
+		04FB34181CD32E9600FFDC74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = NipponcolorsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hotmail.missingurchin.NipponcolorsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nipponcolors.app/Nipponcolors";
+			};
+			name = Release;
+		};
+		04FB341A1CD32E9600FFDC74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = NipponcolorsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hotmail.missingurchin.NipponcolorsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Nipponcolors;
+			};
+			name = Debug;
+		};
+		04FB341B1CD32E9600FFDC74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = NipponcolorsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hotmail.missingurchin.NipponcolorsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Nipponcolors;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04FB33E11CD32E9500FFDC74 /* Build configuration list for PBXProject "Nipponcolors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04FB34111CD32E9600FFDC74 /* Debug */,
+				04FB34121CD32E9600FFDC74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04FB34131CD32E9600FFDC74 /* Build configuration list for PBXNativeTarget "Nipponcolors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04FB34141CD32E9600FFDC74 /* Debug */,
+				04FB34151CD32E9600FFDC74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		04FB34161CD32E9600FFDC74 /* Build configuration list for PBXNativeTarget "NipponcolorsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04FB34171CD32E9600FFDC74 /* Debug */,
+				04FB34181CD32E9600FFDC74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		04FB34191CD32E9600FFDC74 /* Build configuration list for PBXNativeTarget "NipponcolorsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04FB341A1CD32E9600FFDC74 /* Debug */,
+				04FB341B1CD32E9600FFDC74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04FB33DE1CD32E9500FFDC74 /* Project object */;
+}
