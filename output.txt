@@ -1,0 +1,1250 @@
+
+ // 撫子
++ (instancetype){
+  return UIColorFromRGB(#DC9FB4);
+}
+
+ // 紅梅
++ (instancetype){
+  return UIColorFromRGB(#DC9FB4);
+}
+
+ // 蘇芳
++ (instancetype){
+  return UIColorFromRGB(#E16B8C);
+}
+
+ // 退紅
++ (instancetype){
+  return UIColorFromRGB(#8E354A);
+}
+
+ // 一斥染
++ (instancetype){
+  return UIColorFromRGB(#F8C3CD);
+}
+
+ // 桑染
++ (instancetype){
+  return UIColorFromRGB(#F4A7B9);
+}
+
+ // 桃
++ (instancetype){
+  return UIColorFromRGB(#64363C);
+}
+
+ // 苺
++ (instancetype){
+  return UIColorFromRGB(#F596AA);
+}
+
+ // 薄紅
++ (instancetype){
+  return UIColorFromRGB(#B5495B);
+}
+
+ // 今様
++ (instancetype){
+  return UIColorFromRGB(#E87A90);
+}
+
+ // 中紅
++ (instancetype){
+  return UIColorFromRGB(#D05A6E);
+}
+
+ // 桜
++ (instancetype){
+  return UIColorFromRGB(#DB4D6D);
+}
+
+ // 梅鼠
++ (instancetype){
+  return UIColorFromRGB(#FEDFE1);
+}
+
+ // 韓紅花
++ (instancetype){
+  return UIColorFromRGB(#9E7A7A);
+}
+
+ // 燕脂
++ (instancetype){
+  return UIColorFromRGB(#D0104C);
+}
+
+ // 紅
++ (instancetype){
+  return UIColorFromRGB(#9F353A);
+}
+
+ // 鴇
++ (instancetype){
+  return UIColorFromRGB(#CB1B45);
+}
+
+ // 長春
++ (instancetype){
+  return UIColorFromRGB(#EEA9A9);
+}
+
+ // 深緋
++ (instancetype){
+  return UIColorFromRGB(#BF6766);
+}
+
+ // 桜鼠
++ (instancetype){
+  return UIColorFromRGB(#86473F);
+}
+
+ // 甚三紅
++ (instancetype){
+  return UIColorFromRGB(#B19693);
+}
+
+ // 小豆
++ (instancetype){
+  return UIColorFromRGB(#EB7A77);
+}
+
+ // 蘇芳香
++ (instancetype){
+  return UIColorFromRGB(#954A45);
+}
+
+ // 赤紅
++ (instancetype){
+  return UIColorFromRGB(#A96360);
+}
+
+ // 真朱
++ (instancetype){
+  return UIColorFromRGB(#CB4042);
+}
+
+ // 灰桜
++ (instancetype){
+  return UIColorFromRGB(#AB3B3A);
+}
+
+ // 栗梅
++ (instancetype){
+  return UIColorFromRGB(#D7C4BB);
+}
+
+ // 海老茶
++ (instancetype){
+  return UIColorFromRGB(#904840);
+}
+
+ // 銀朱
++ (instancetype){
+  return UIColorFromRGB(#734338);
+}
+
+ // 黒鳶
++ (instancetype){
+  return UIColorFromRGB(#C73E3A);
+}
+
+ // 紅鳶
++ (instancetype){
+  return UIColorFromRGB(#554236);
+}
+
+ // 曙
++ (instancetype){
+  return UIColorFromRGB(#994639);
+}
+
+ // 紅樺
++ (instancetype){
+  return UIColorFromRGB(#F19483);
+}
+
+ // 水がき
++ (instancetype){
+  return UIColorFromRGB(#B54434);
+}
+
+ // 珊瑚朱
++ (instancetype){
+  return UIColorFromRGB(#B9887D);
+}
+
+ // 紅檜皮
++ (instancetype){
+  return UIColorFromRGB(#F17C67);
+}
+
+ // 猩猩緋
++ (instancetype){
+  return UIColorFromRGB(#884C3A);
+}
+
+ // 鉛丹
++ (instancetype){
+  return UIColorFromRGB(#E83015);
+}
+
+ // 芝翫茶
++ (instancetype){
+  return UIColorFromRGB(#D75455);
+}
+
+ // 檜皮
++ (instancetype){
+  return UIColorFromRGB(#B55D4C);
+}
+
+ // 柿渋
++ (instancetype){
+  return UIColorFromRGB(#854836);
+}
+
+ // 緋
++ (instancetype){
+  return UIColorFromRGB(#A35E47);
+}
+
+ // 鳶
++ (instancetype){
+  return UIColorFromRGB(#CC543A);
+}
+
+ // 紅緋
++ (instancetype){
+  return UIColorFromRGB(#724832);
+}
+
+ // 栗皮茶
++ (instancetype){
+  return UIColorFromRGB(#F75C2F);
+}
+
+ // 弁柄
++ (instancetype){
+  return UIColorFromRGB(#6A4028);
+}
+
+ // 照柿
++ (instancetype){
+  return UIColorFromRGB(#9A5034);
+}
+
+ // 江戸茶
++ (instancetype){
+  return UIColorFromRGB(#C46243);
+}
+
+ // 洗朱
++ (instancetype){
+  return UIColorFromRGB(#AF5F3C);
+}
+
+ // 百塩茶
++ (instancetype){
+  return UIColorFromRGB(#FB966E);
+}
+
+ // 唐茶
++ (instancetype){
+  return UIColorFromRGB(#724938);
+}
+
+ // ときがら茶
++ (instancetype){
+  return UIColorFromRGB(#B47157);
+}
+
+ // 黄丹
++ (instancetype){
+  return UIColorFromRGB(#DB8E71);
+}
+
+ // 纁
++ (instancetype){
+  return UIColorFromRGB(#F05E1C);
+}
+
+ // 遠州茶
++ (instancetype){
+  return UIColorFromRGB(#ED784A);
+}
+
+ // 樺茶
++ (instancetype){
+  return UIColorFromRGB(#CA7853);
+}
+
+ // 焦茶
++ (instancetype){
+  return UIColorFromRGB(#B35C37);
+}
+
+ // 赤香
++ (instancetype){
+  return UIColorFromRGB(#563F2E);
+}
+
+ // 雀茶
++ (instancetype){
+  return UIColorFromRGB(#E3916E);
+}
+
+ // 宍
++ (instancetype){
+  return UIColorFromRGB(#8F5A3C);
+}
+
+ // 宗伝唐茶
++ (instancetype){
+  return UIColorFromRGB(#F0A986);
+}
+
+ // 樺
++ (instancetype){
+  return UIColorFromRGB(#A0674B);
+}
+
+ // 深支子
++ (instancetype){
+  return UIColorFromRGB(#C1693C);
+}
+
+ // 胡桃
++ (instancetype){
+  return UIColorFromRGB(#FB9966);
+}
+
+ // 代赭
++ (instancetype){
+  return UIColorFromRGB(#947A6D);
+}
+
+ // 洗柿
++ (instancetype){
+  return UIColorFromRGB(#A36336);
+}
+
+ // 黄櫨染
++ (instancetype){
+  return UIColorFromRGB(#E79460);
+}
+
+ // 赤朽葉
++ (instancetype){
+  return UIColorFromRGB(#7D532C);
+}
+
+ // 礪茶
++ (instancetype){
+  return UIColorFromRGB(#C78550);
+}
+
+ // 赤白橡
++ (instancetype){
+  return UIColorFromRGB(#985F2A);
+}
+
+ // 煎茶
++ (instancetype){
+  return UIColorFromRGB(#E1A679);
+}
+
+ // 萱草
++ (instancetype){
+  return UIColorFromRGB(#855B32);
+}
+
+ // 洒落柿
++ (instancetype){
+  return UIColorFromRGB(#FC9F4D);
+}
+
+ // 紅鬱金
++ (instancetype){
+  return UIColorFromRGB(#FFBA84);
+}
+
+ // 梅染
++ (instancetype){
+  return UIColorFromRGB(#E98B2A);
+}
+
+ // 枇杷茶
++ (instancetype){
+  return UIColorFromRGB(#E9A368);
+}
+
+ // 丁子茶
++ (instancetype){
+  return UIColorFromRGB(#B17844);
+}
+
+ // 憲法染
++ (instancetype){
+  return UIColorFromRGB(#96632E);
+}
+
+ // 琥珀
++ (instancetype){
+  return UIColorFromRGB(#43341B);
+}
+
+ // 薄柿
++ (instancetype){
+  return UIColorFromRGB(#CA7A2C);
+}
+
+ // 伽羅
++ (instancetype){
+  return UIColorFromRGB(#ECB88A);
+}
+
+ // 丁子染
++ (instancetype){
+  return UIColorFromRGB(#78552B);
+}
+
+ // 柴染
++ (instancetype){
+  return UIColorFromRGB(#B07736);
+}
+
+ // 朽葉
++ (instancetype){
+  return UIColorFromRGB(#967249);
+}
+
+ // 金茶
++ (instancetype){
+  return UIColorFromRGB(#E2943B);
+}
+
+ // 狐
++ (instancetype){
+  return UIColorFromRGB(#C7802D);
+}
+
+ // 煤竹
++ (instancetype){
+  return UIColorFromRGB(#9B6E23);
+}
+
+ // 薄香
++ (instancetype){
+  return UIColorFromRGB(#6E552F);
+}
+
+ // 砥粉
++ (instancetype){
+  return UIColorFromRGB(#EBB471);
+}
+
+ // 銀煤竹
++ (instancetype){
+  return UIColorFromRGB(#D7B98E);
+}
+
+ // 黄土
++ (instancetype){
+  return UIColorFromRGB(#82663A);
+}
+
+ // 白茶
++ (instancetype){
+  return UIColorFromRGB(#B68E55);
+}
+
+ // 媚茶
++ (instancetype){
+  return UIColorFromRGB(#BC9F77);
+}
+
+ // 黄唐茶
++ (instancetype){
+  return UIColorFromRGB(#876633);
+}
+
+ // 山吹
++ (instancetype){
+  return UIColorFromRGB(#C18A26);
+}
+
+ // 山吹茶
++ (instancetype){
+  return UIColorFromRGB(#FFB11B);
+}
+
+ // 櫨染
++ (instancetype){
+  return UIColorFromRGB(#D19826);
+}
+
+ // 桑茶
++ (instancetype){
+  return UIColorFromRGB(#DDA52D);
+}
+
+ // 玉子
++ (instancetype){
+  return UIColorFromRGB(#C99833);
+}
+
+ // 白橡
++ (instancetype){
+  return UIColorFromRGB(#F9BF45);
+}
+
+ // 黄橡
++ (instancetype){
+  return UIColorFromRGB(#DCB879);
+}
+
+ // 玉蜀黍
++ (instancetype){
+  return UIColorFromRGB(#BA9132);
+}
+
+ // 花葉
++ (instancetype){
+  return UIColorFromRGB(#E8B647);
+}
+
+ // 生壁
++ (instancetype){
+  return UIColorFromRGB(#F7C242);
+}
+
+ // 鳥の子
++ (instancetype){
+  return UIColorFromRGB(#7D6C46);
+}
+
+ // 浅黄
++ (instancetype){
+  return UIColorFromRGB(#DAC9A6);
+}
+
+ // 黄朽葉
++ (instancetype){
+  return UIColorFromRGB(#FAD689);
+}
+
+ // 梔子
++ (instancetype){
+  return UIColorFromRGB(#D9AB42);
+}
+
+ // 籐黄
++ (instancetype){
+  return UIColorFromRGB(#F6C555);
+}
+
+ // 鬱金
++ (instancetype){
+  return UIColorFromRGB(#FFC408);
+}
+
+ // 芥子
++ (instancetype){
+  return UIColorFromRGB(#EFBB24);
+}
+
+ // 肥後煤竹
++ (instancetype){
+  return UIColorFromRGB(#CAAD5F);
+}
+
+ // 利休白茶
++ (instancetype){
+  return UIColorFromRGB(#8D742A);
+}
+
+ // 灰汁
++ (instancetype){
+  return UIColorFromRGB(#B4A582);
+}
+
+ // 利休茶
++ (instancetype){
+  return UIColorFromRGB(#877F6C);
+}
+
+ // 路考茶
++ (instancetype){
+  return UIColorFromRGB(#897D55);
+}
+
+ // 菜種油
++ (instancetype){
+  return UIColorFromRGB(#74673E);
+}
+
+ // 鶯茶
++ (instancetype){
+  return UIColorFromRGB(#A28C37);
+}
+
+ // 黄海松茶
++ (instancetype){
+  return UIColorFromRGB(#6C6024);
+}
+
+ // 海松茶
++ (instancetype){
+  return UIColorFromRGB(#867835);
+}
+
+ // 刈安
++ (instancetype){
+  return UIColorFromRGB(#62592C);
+}
+
+ // 菜の花
++ (instancetype){
+  return UIColorFromRGB(#E9CD4C);
+}
+
+ // 黄蘗
++ (instancetype){
+  return UIColorFromRGB(#F7D94C);
+}
+
+ // 蒸栗
++ (instancetype){
+  return UIColorFromRGB(#FBE251);
+}
+
+ // 青朽葉
++ (instancetype){
+  return UIColorFromRGB(#D9CD90);
+}
+
+ // 女郎花
++ (instancetype){
+  return UIColorFromRGB(#ADA142);
+}
+
+ // 鶸茶
++ (instancetype){
+  return UIColorFromRGB(#DDD23B);
+}
+
+ // 鶸
++ (instancetype){
+  return UIColorFromRGB(#A5A051);
+}
+
+ // 鶯
++ (instancetype){
+  return UIColorFromRGB(#BEC23F);
+}
+
+ // 柳茶
++ (instancetype){
+  return UIColorFromRGB(#6C6A2D);
+}
+
+ // 苔
++ (instancetype){
+  return UIColorFromRGB(#939650);
+}
+
+ // 麹塵
++ (instancetype){
+  return UIColorFromRGB(#838A2D);
+}
+
+ // 璃寛茶
++ (instancetype){
+  return UIColorFromRGB(#B1B479);
+}
+
+ // 藍媚茶
++ (instancetype){
+  return UIColorFromRGB(#616138);
+}
+
+ // 海松
++ (instancetype){
+  return UIColorFromRGB(#4B4E2A);
+}
+
+ // 千歳茶
++ (instancetype){
+  return UIColorFromRGB(#5B622E);
+}
+
+ // 梅幸茶
++ (instancetype){
+  return UIColorFromRGB(#4D5139);
+}
+
+ // 鶸萌黄
++ (instancetype){
+  return UIColorFromRGB(#89916B);
+}
+
+ // 柳染
++ (instancetype){
+  return UIColorFromRGB(#90B44B);
+}
+
+ // 裏柳
++ (instancetype){
+  return UIColorFromRGB(#91AD70);
+}
+
+ // 岩井茶
++ (instancetype){
+  return UIColorFromRGB(#B5CAA0);
+}
+
+ // 萌黄
++ (instancetype){
+  return UIColorFromRGB(#646A58);
+}
+
+ // 苗
++ (instancetype){
+  return UIColorFromRGB(#7BA23F);
+}
+
+ // 柳煤竹
++ (instancetype){
+  return UIColorFromRGB(#86C166);
+}
+
+ // 松葉
++ (instancetype){
+  return UIColorFromRGB(#4A593D);
+}
+
+ // 青丹
++ (instancetype){
+  return UIColorFromRGB(#42602D);
+}
+
+ // 薄青
++ (instancetype){
+  return UIColorFromRGB(#516E41);
+}
+
+ // 柳鼠
++ (instancetype){
+  return UIColorFromRGB(#91B493);
+}
+
+ // 常磐
++ (instancetype){
+  return UIColorFromRGB(#808F7C);
+}
+
+ // 若竹
++ (instancetype){
+  return UIColorFromRGB(#1B813E);
+}
+
+ // 千歳緑
++ (instancetype){
+  return UIColorFromRGB(#5DAC81);
+}
+
+ // 緑
++ (instancetype){
+  return UIColorFromRGB(#36563C);
+}
+
+ // 白緑
++ (instancetype){
+  return UIColorFromRGB(#227D51);
+}
+
+ // 老竹
++ (instancetype){
+  return UIColorFromRGB(#A8D8B9);
+}
+
+ // 木賊
++ (instancetype){
+  return UIColorFromRGB(#6A8372);
+}
+
+ // 御納戸茶
++ (instancetype){
+  return UIColorFromRGB(#2D6D4B);
+}
+
+ // 緑青
++ (instancetype){
+  return UIColorFromRGB(#465D4C);
+}
+
+ // 錆青磁
++ (instancetype){
+  return UIColorFromRGB(#24936E);
+}
+
+ // 青竹
++ (instancetype){
+  return UIColorFromRGB(#86A697);
+}
+
+ // ビロード
++ (instancetype){
+  return UIColorFromRGB(#00896C);
+}
+
+ // 虫襖
++ (instancetype){
+  return UIColorFromRGB(#096148);
+}
+
+ // 藍海松茶
++ (instancetype){
+  return UIColorFromRGB(#20604F);
+}
+
+ // 沈香茶
++ (instancetype){
+  return UIColorFromRGB(#0F4C3A);
+}
+
+ // 青緑
++ (instancetype){
+  return UIColorFromRGB(#4F726C);
+}
+
+ // 青磁
++ (instancetype){
+  return UIColorFromRGB(#00AA90);
+}
+
+ // 鉄
++ (instancetype){
+  return UIColorFromRGB(#69B0AC);
+}
+
+ // 水浅葱
++ (instancetype){
+  return UIColorFromRGB(#26453D);
+}
+
+ // 青碧
++ (instancetype){
+  return UIColorFromRGB(#66BAB7);
+}
+
+ // 錆鉄御納戸
++ (instancetype){
+  return UIColorFromRGB(#268785);
+}
+
+ // 高麗納戸
++ (instancetype){
+  return UIColorFromRGB(#405B55);
+}
+
+ // 白群
++ (instancetype){
+  return UIColorFromRGB(#305A56);
+}
+
+ // 御召茶
++ (instancetype){
+  return UIColorFromRGB(#78C2C4);
+}
+
+ // 瓶覗
++ (instancetype){
+  return UIColorFromRGB(#376B6D);
+}
+
+ // 深川鼠
++ (instancetype){
+  return UIColorFromRGB(#A5DEE4);
+}
+
+ // 錆浅葱
++ (instancetype){
+  return UIColorFromRGB(#77969A);
+}
+
+ // 水
++ (instancetype){
+  return UIColorFromRGB(#6699A1);
+}
+
+ // 浅葱
++ (instancetype){
+  return UIColorFromRGB(#81C7D4);
+}
+
+ // 御納戸
++ (instancetype){
+  return UIColorFromRGB(#33A6B8);
+}
+
+ // 藍
++ (instancetype){
+  return UIColorFromRGB(#0C4842);
+}
+
+ // 新橋
++ (instancetype){
+  return UIColorFromRGB(#0D5661);
+}
+
+ // 錆御納戸
++ (instancetype){
+  return UIColorFromRGB(#0089A7);
+}
+
+ // 鉄御納戸
++ (instancetype){
+  return UIColorFromRGB(#336774);
+}
+
+ // 花浅葱
++ (instancetype){
+  return UIColorFromRGB(#255359);
+}
+
+ // 藍鼠
++ (instancetype){
+  return UIColorFromRGB(#1E88A8);
+}
+
+ // 舛花
++ (instancetype){
+  return UIColorFromRGB(#566C73);
+}
+
+ // 空
++ (instancetype){
+  return UIColorFromRGB(#577C8A);
+}
+
+ // 熨斗目花
++ (instancetype){
+  return UIColorFromRGB(#58B2DC);
+}
+
+ // 千草
++ (instancetype){
+  return UIColorFromRGB(#2B5F75);
+}
+
+ // 御召御納戸
++ (instancetype){
+  return UIColorFromRGB(#3A8FB7);
+}
+
+ // 縹
++ (instancetype){
+  return UIColorFromRGB(#2E5C6E);
+}
+
+ // 勿忘草
++ (instancetype){
+  return UIColorFromRGB(#006284);
+}
+
+ // 群青
++ (instancetype){
+  return UIColorFromRGB(#7DB9DE);
+}
+
+ // 露草
++ (instancetype){
+  return UIColorFromRGB(#51A8DD);
+}
+
+ // 黒橡
++ (instancetype){
+  return UIColorFromRGB(#2EA9DF);
+}
+
+ // 紺
++ (instancetype){
+  return UIColorFromRGB(#0B1013);
+}
+
+ // 褐
++ (instancetype){
+  return UIColorFromRGB(#0F2540);
+}
+
+ // 瑠璃
++ (instancetype){
+  return UIColorFromRGB(#08192D);
+}
+
+ // 瑠璃紺
++ (instancetype){
+  return UIColorFromRGB(#005CAF);
+}
+
+ // 紅碧
++ (instancetype){
+  return UIColorFromRGB(#0B346E);
+}
+
+ // 藤鼠
++ (instancetype){
+  return UIColorFromRGB(#7B90D2);
+}
+
+ // 鉄紺
++ (instancetype){
+  return UIColorFromRGB(#6E75A4);
+}
+
+ // 紺青
++ (instancetype){
+  return UIColorFromRGB(#261E47);
+}
+
+ // 紅掛花
++ (instancetype){
+  return UIColorFromRGB(#113285);
+}
+
+ // 紺桔梗
++ (instancetype){
+  return UIColorFromRGB(#4E4F97);
+}
+
+ // 藤
++ (instancetype){
+  return UIColorFromRGB(#211E55);
+}
+
+ // 二藍
++ (instancetype){
+  return UIColorFromRGB(#8B81C3);
+}
+
+ // 楝
++ (instancetype){
+  return UIColorFromRGB(#70649A);
+}
+
+ // 藤紫
++ (instancetype){
+  return UIColorFromRGB(#9B90C2);
+}
+
+ // 桔梗
++ (instancetype){
+  return UIColorFromRGB(#8A6BBE);
+}
+
+ // 紫苑
++ (instancetype){
+  return UIColorFromRGB(#6A4C9C);
+}
+
+ // 滅紫
++ (instancetype){
+  return UIColorFromRGB(#8F77B5);
+}
+
+ // 薄
++ (instancetype){
+  return UIColorFromRGB(#533D5B);
+}
+
+ // 半
++ (instancetype){
+  return UIColorFromRGB(#B28FCE);
+}
+
+ // 江戸紫
++ (instancetype){
+  return UIColorFromRGB(#986DB2);
+}
+
+ // 紫紺
++ (instancetype){
+  return UIColorFromRGB(#77428D);
+}
+
+ // 深紫
++ (instancetype){
+  return UIColorFromRGB(#3C2F41);
+}
+
+ // 菫
++ (instancetype){
+  return UIColorFromRGB(#4A225D);
+}
+
+ // 紫
++ (instancetype){
+  return UIColorFromRGB(#66327C);
+}
+
+ // 菖蒲
++ (instancetype){
+  return UIColorFromRGB(#592C63);
+}
+
+ // 藤煤竹
++ (instancetype){
+  return UIColorFromRGB(#6F3381);
+}
+
+ // 紅藤
++ (instancetype){
+  return UIColorFromRGB(#574C57);
+}
+
+ // 黒紅
++ (instancetype){
+  return UIColorFromRGB(#B481BB);
+}
+
+ // 茄子紺
++ (instancetype){
+  return UIColorFromRGB(#3F2B36);
+}
+
+ // 葡萄鼠
++ (instancetype){
+  return UIColorFromRGB(#572A3F);
+}
+
+ // 鳩羽鼠
++ (instancetype){
+  return UIColorFromRGB(#5E3D50);
+}
+
+ // 杜若
++ (instancetype){
+  return UIColorFromRGB(#72636E);
+}
+
+ // 蒲葡
++ (instancetype){
+  return UIColorFromRGB(#622954);
+}
+
+ // 牡丹
++ (instancetype){
+  return UIColorFromRGB(#6D2E5B);
+}
+
+ // 梅紫
++ (instancetype){
+  return UIColorFromRGB(#C1328E);
+}
+
+ // 似紫
++ (instancetype){
+  return UIColorFromRGB(#A8497A);
+}
+
+ // 躑躅
++ (instancetype){
+  return UIColorFromRGB(#562E37);
+}
+
+ // 紫鳶
++ (instancetype){
+  return UIColorFromRGB(#E03C8A);
+}
+
+ // 白練
++ (instancetype){
+  return UIColorFromRGB(#60373E);
+}
+
+ // 胡粉
++ (instancetype){
+  return UIColorFromRGB(#FCFAF2);
+}
+
+ // 白鼠
++ (instancetype){
+  return UIColorFromRGB(#FFFFFB);
+}
+
+ // 銀鼠
++ (instancetype){
+  return UIColorFromRGB(#BDC0BA);
+}
+
+ // 鉛
++ (instancetype){
+  return UIColorFromRGB(#91989F);
+}
+
+ // 灰
++ (instancetype){
+  return UIColorFromRGB(#787878);
+}
+
+ // 素鼠
++ (instancetype){
+  return UIColorFromRGB(#828282);
+}
+
+ // 利休鼠
++ (instancetype){
+  return UIColorFromRGB(#787D7B);
+}
+
+ // 鈍
++ (instancetype){
+  return UIColorFromRGB(#707C74);
+}
+
+ // 青鈍
++ (instancetype){
+  return UIColorFromRGB(#656765);
+}
+
+ // 溝鼠
++ (instancetype){
+  return UIColorFromRGB(#535953);
+}
+
+ // 紅消鼠
++ (instancetype){
+  return UIColorFromRGB(#4F4F48);
+}
+
+ // 藍墨茶
++ (instancetype){
+  return UIColorFromRGB(#52433D);
+}
+
+ // 檳榔子染
++ (instancetype){
+  return UIColorFromRGB(#373C38);
+}
+
+ // 消炭
++ (instancetype){
+  return UIColorFromRGB(#3A3226);
+}
+
+ // 墨
++ (instancetype){
+  return UIColorFromRGB(#434343);
+}
+
+ // 黒
++ (instancetype){
+  return UIColorFromRGB(#1C1C1C);
+}
+
+ // 呂
++ (instancetype){
+  return UIColorFromRGB(#080808);
+}
