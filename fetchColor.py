@@ -43,13 +43,6 @@ listNumber = len(allColorHax)
 for num in range(listNumber):
     allName.append(allColorHax[num][0].replace("#", "0x")+" "+colorName[num] + englishName[num])
 
-iterm(allColorHax)
-demoCode = """ 
-  // 
-  +(instancetype)nadeshikoColor {
-     return UIColorFromRGB(0xfafafa);
-     } """
-
 # for .m file
 with open('./Nipponcolors/Nipponcolors/UIColor+NipponColors.m', 'a') as out:
       for line in allName:
